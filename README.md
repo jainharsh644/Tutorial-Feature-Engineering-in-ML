@@ -8,8 +8,9 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
 ## The Steps under Feature Engineering are:
-### 1. HANDLING MISSING DATA, 
-### 2. FEATURE SCALING, 
-### 3. FEATURE SELECTION, 
-### 4. OUTLIERS DETECTION, 
-### 5. HANDING IMBALANCED DATASET USING DIFFERENT TECHNIQUE
+
+### 1. Handling Miisng Values
+### 2. Outliers Detection 
+### 3. Feature Scaling/ Transformation
+### 4. Feature Selection
+### 5. Handling Imbalanced Data
