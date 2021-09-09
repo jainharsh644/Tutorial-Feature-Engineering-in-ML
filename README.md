@@ -14,3 +14,5 @@
 ### 3. Feature Scaling/ Transformation
 ### 4. Feature Selection
 ### 5. Handling Imbalanced Data
+___
+### My Kaggle Notebook Link:  [Harsh Jain](https://www.kaggle.com/harshjain123/feature-engineering-from-scratch)
