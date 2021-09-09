@@ -15,4 +15,6 @@
 ### 4. Feature Selection
 ### 5. Handling Imbalanced Data
 ___
+
+### Link To the YouTube Channel for Video Explanation of these techniques:  [KRISH NAIK SIR](https://www.youtube.com/playlist?list=PLZoTAELRMXVPUyxuK8AphGMuIJHTyuWna)
 ### My Kaggle Notebook Link:  [Harsh Jain](https://www.kaggle.com/harshjain123/feature-engineering-from-scratch)
